@@ -7,9 +7,9 @@ A partir deste projeto, é possivel criar e gerenciar páginas em html com muito
 Está permitido a livre utilização do código para fins estudantis, caso o mesmo seja utilizado e relacionado para venda ou esteja presente em projetos que visam lucro ou esteja associado a sistema de pagamentos, peço que deixem os devidos créditos.
 <br><br><b>📩FORMA DE CONTATO:📧</b><br>
 Caso encontre algum problema ou tenha alguma sugestão, pode me contatar por meio de
-<br>E-mail: nagibverly@gmail.com<br>
+<br>E-mail: sofiadjdiaz@gmail.com<br>
 <p align="center">
-<br><br><b>🎆AUTORIA🎇</b><br>
-<img src="https://avatars.githubusercontent.com/u/80482671?v=4" width=115><br>(https://github.com/NagibAlexandre)
+<br><br><b>AUTORIA</b><br>
+<img src="https://avatars.githubusercontent.com/u/80482671?v=4" width=115><br>(https://github.com/sofistje)
 </p>
 
