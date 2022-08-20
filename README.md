@@ -10,6 +10,6 @@ Caso encontre algum problema ou tenha alguma sugestão, pode me contatar por mei
 <br>E-mail: sofiadjdiaz@gmail.com<br>
 <p align="center">
 <br><br><b>AUTORIA</b><br>
-<img src="https://avatars.githubusercontent.com/u/80482671?v=4" width=115><br>(https://github.com/sofistje)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3foOLIFyywPZxD0tOaPCXnsND2mzflXeGQ&usqp=CAU" width=115><br>(https://github.com/sofistje)
 </p>
 
